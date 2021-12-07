@@ -85,6 +85,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"blueTable"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,6 +108,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"redTable"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,6 +131,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"yellowTable"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,6 +154,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"greenTable"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,6 +177,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,6 +200,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,6 +223,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi3"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -211,6 +246,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi4"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,6 +269,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi5"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -247,6 +292,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi6"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
