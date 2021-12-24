@@ -730,17 +730,17 @@
                  "name":"collides",
                  "type":"bool",
                  "value":true
-                }],
+                },
+                {
+                "name":"tilesetCopyright",
+                "type":"string",
+                "value":"unknown"
+                }
+         ],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
-         "tilewidth":32,
-         "properties":[
-         {
-           "name":"tilesetCopyright",
-           "type":"string",
-           "value":"unknown"
-          }]
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
