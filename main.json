@@ -405,7 +405,13 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+         {
+           "name":"tilesetCopyright",
+           "type":"string",
+           "value":"unknown"
+          }]
         }, 
         {
          "columns":9,
@@ -418,7 +424,13 @@
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+         {
+           "name":"tilesetCopyright",
+           "type":"string",
+           "value":"unknown"
+          }]
         }, 
         {
          "columns":16,
@@ -431,7 +443,13 @@
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+         {
+           "name":"tilesetCopyright",
+           "type":"string",
+           "value":"unknown"
+          }]
         }, 
         {
          "columns":2,
@@ -444,7 +462,13 @@
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+         {
+           "name":"tilesetCopyright",
+           "type":"string",
+           "value":"unknown"
+          }]
         }, 
         {
          "columns":32,
@@ -618,7 +642,13 @@
                         }],
                  "id":231
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+         {
+           "name":"tilesetCopyright",
+           "type":"string",
+           "value":"unknown"
+          }]
         }, 
         {
          "columns":16,
@@ -631,7 +661,13 @@
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+         {
+           "name":"tilesetCopyright",
+           "type":"string",
+           "value":"unknown"
+          }]
         }, 
         {
          "columns":1,
@@ -654,7 +690,13 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+         {
+           "name":"tilesetCopyright",
+           "type":"string",
+           "value":"unknown"
+          }]
         }, 
         {
          "columns":4,
@@ -667,7 +709,13 @@
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+         {
+           "name":"tilesetCopyright",
+           "type":"string",
+           "value":"unknown"
+          }]
         }, 
         {
          "columns":32,
@@ -686,7 +734,13 @@
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
-         "tilewidth":32
+         "tilewidth":32,
+         "properties":[
+         {
+           "name":"tilesetCopyright",
+           "type":"string",
+           "value":"unknown"
+          }]
         }],
  "tilewidth":32,
  "type":"map",
