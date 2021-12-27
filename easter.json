@@ -566,7 +566,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"CCCHB"
                 }],
          "spacing":0,
          "tilecount":1089,
@@ -623,7 +623,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"CCCHB"
+                 "value":"https:\/\/wiki.ccchb.de\/wiki\/CCC_Bremen:Logo"
                 }],
          "spacing":0,
          "tilecount":117,
@@ -642,7 +642,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"https:\/\/github.com\/FreifunkBremen\/logo"
                 }],
          "spacing":0,
          "tilecount":256,
@@ -661,7 +661,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"https:\/\/opengameart.org\/content\/db32-cave-tileset"
                 }],
          "spacing":0,
          "tilecount":70,
