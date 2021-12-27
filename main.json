@@ -418,7 +418,7 @@
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
-                         "value":"CC-BY-SA 3.0"
+                         "value":"CC-BY-SA 3.0 https:\/\/www.deviantart.com\/3lv3n\/art\/Grass-and-dungeon-floor-tile-map-with-some-snow-700702945"
                         }]
                 }],
          "tilewidth":32
@@ -454,7 +454,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"CC-BY-SA 4.0 CERT https:\/\/github.com\/c3CERT\/rc3_tiles"
                 }],
          "spacing":0,
          "tilecount":1024,
@@ -492,7 +492,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"Chaospat:innen"
                 }],
          "spacing":0,
          "tilecount":1024,
@@ -672,7 +672,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"CC-BY-SA 4.0 CERT https:\/\/github.com\/c3CERT\/rc3_tiles"
                 }],
          "spacing":0,
          "tilecount":1024,
@@ -691,7 +691,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"Chaospat:innen"
                 }],
          "spacing":0,
          "tilecount":1,
@@ -720,7 +720,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"CC-BY-SA 4.0 CERT https:\/\/github.com\/c3CERT\/rc3_tiles"
                 }],
          "spacing":0,
          "tilecount":28,
@@ -737,14 +737,9 @@
          "name":"Chaosmentoren_Tileset_solid",
          "properties":[
                 {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"Chaospat:innen"
                 }],
          "spacing":0,
          "tilecount":1024,
