@@ -220,6 +220,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -233,6 +239,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilies",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -246,6 +258,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"misc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 4.0 CERT https:\/\/github.com\/c3CERT\/rc3_tiles"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -259,6 +277,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -272,6 +296,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"Chaosmentoren_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Chaospat:innen"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -446,6 +476,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"furniture",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 4.0 CERT https:\/\/github.com\/c3CERT\/rc3_tiles"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -459,6 +495,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Chaospat:innen"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -482,6 +524,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"rc3_style_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 4.0 CERT https:\/\/github.com\/c3CERT\/rc3_tiles"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
@@ -497,9 +545,9 @@
          "name":"Chaosmentoren_Tileset_solid",
          "properties":[
                 {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Chaospat:innen"
                 }],
          "spacing":0,
          "tilecount":1024,
@@ -514,6 +562,12 @@
          "imagewidth":1056,
          "margin":0,
          "name":"bremen",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1089,
          "tileheight":32,
@@ -527,6 +581,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"inventory_dk_transports",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -540,6 +600,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"misc_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-BY-SA 4.0 CERT https:\/\/github.com\/c3CERT\/rc3_tiles"
+                }],
          "spacing":0,
          "tilecount":52,
          "tileheight":32,
@@ -553,6 +619,12 @@
          "imagewidth":447,
          "margin":0,
          "name":"CCC-Bremen",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCCHB"
+                }],
          "spacing":0,
          "tilecount":117,
          "tileheight":32,
@@ -566,6 +638,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"ffhb",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -579,6 +657,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"cave",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":70,
          "tileheight":32,
