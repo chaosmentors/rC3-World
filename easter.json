@@ -224,7 +224,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"CC-0"
                 }],
          "spacing":0,
          "tilecount":64,
