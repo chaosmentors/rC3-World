@@ -208,6 +208,12 @@
          "imagewidth":544,
          "margin":1,
          "name":"BaseChip_pipo_rearranged",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":2,
          "tilecount":1120,
          "tileheight":32,
@@ -221,6 +227,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/workadventure-xce\/workadventure-xce-map-starter-kit"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -244,6 +256,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"Chaosmentoren_Tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Chaospat:innen"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
