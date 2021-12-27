@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":100,
  "infinite":false,
  "layers":[
@@ -55,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":" \t{<lobby>\/maps\/c3oc.json#start_chaospatinnen}"
+                 "value":"world:\/\/lobby\/islanooblar.json#start_Chaosmentors"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -216,7 +209,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2020.12.18",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -756,6 +749,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":100
 }
