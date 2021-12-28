@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#forest"
+                 "value":"main.json#entry_forest"
                 }],
          "type":"tilelayer",
          "visible":true,
