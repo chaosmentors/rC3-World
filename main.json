@@ -66,7 +66,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"forest.json"
+                 "value":"forest.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
